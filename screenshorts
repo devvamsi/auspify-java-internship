@@ -1,0 +1,170 @@
+=================================================
+     ? STUDENT MANAGEMENT SYSTEM ?            
+=================================================
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 1
+
+--- Add New Student ---
+Enter Student ID   : vamsi
+??  Enter a valid integer.
+Enter Student ID   : 2
+Enter Student Name : vamsi
+Enter Student Marks: 100
+? Student added successfully!
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 2
+
+--- All Student Records ---
++-------+----------------------+----------+
+| ID    | NAME                 | MARKS    |
++-------+----------------------+----------+
+| 2     | vamsi                | 100.00   |
++-------+----------------------+----------+
+Total Students: 1
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 3
+
+--- Search Student ---
+Enter Student ID to search: 
+??  Enter a valid integer.
+Enter Student ID to search: 1
+? Student ID 1 not found.
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 1
+
+--- Add New Student ---
+Enter Student ID   : 1
+Enter Student Name : vamsi
+Enter Student Marks: 33
+? Student added successfully!
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 2
+
+--- All Student Records ---
++-------+----------------------+----------+
+| ID    | NAME                 | MARKS    |
++-------+----------------------+----------+
+| 2     | vamsi                | 100.00   |
+| 1     | vamsi                | 33.00    |
++-------+----------------------+----------+
+Total Students: 2
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 1
+
+--- Add New Student ---
+Enter Student ID   : 2
+? Student ID 2 already exists!
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 1
+
+--- Add New Student ---
+Enter Student ID   : 4
+Enter Student Name : karhik
+Enter Student Marks: 34 
+? Student added successfully!
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 2
+
+--- All Student Records ---
++-------+----------------------+----------+
+| ID    | NAME                 | MARKS    |
++-------+----------------------+----------+
+| 2     | vamsi                | 100.00   |
+| 1     | vamsi                | 33.00    |
+| 4     | karhik               | 34.00    |
++-------+----------------------+----------+
+Total Students: 3
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 3
+
+--- Search Student ---
+Enter Student ID to search: 1
+? Student Found:
++-------+----------------------+----------+
+| ID    | NAME                 | MARKS    |
++-------+----------------------+----------+
+| 1     | vamsi                | 33.00    |
++-------+----------------------+----------+
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 3
+
+--- Search Student ---
+Enter Student ID to search: 4
+? Student Found:
++-------+----------------------+----------+
+| ID    | NAME                 | MARKS    |
++-------+----------------------+----------+
+| 4     | karhik               | 34.00    |
++-------+----------------------+----------+
+
+----------------- MAIN MENU -----------------
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Exit
+---------------------------------------------
+Enter your choice: 4
+
+? Exiting... Thank you!
+
+C:\Auspify\StudentManagementSystem>
