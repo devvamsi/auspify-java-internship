@@ -4,27 +4,32 @@
 **Program:** Java Developer Internship – Auspify Technologies
 **Date:** 14/10/26
 
-## 📌 Description
+## Description
 A Java console-based application to manage student records using
 Core Java, OOP principles, and the ArrayList collection.
 
-## ✨ Features
-- Add Student (with duplicate ID check + marks validation)
+## Features
+- Add Student (with duplicate ID check)
 - View All Students (formatted table output)
 - Search Student by ID
-- Input validation for numeric fields
+- Input validation for marks and numeric fields
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java (JDK 8+)
-- OOP – Encapsulation
-- Collections – ArrayList
+- OOP - Encapsulation
+- Collections - ArrayList
 - java.util.Scanner
 
-## 📂 Files
-- `Student.java` – Model class (id, name, marks)
-- `StudentManagementSystem.java` – Main application
+## Files
+- Student.java - Model class (id, name, marks)
+- StudentManagementSystem.java - Main application
 
-## ▶️ How to Run
-```bash
+## How to Run
 javac Student.java StudentManagementSystem.java
 java StudentManagementSystem
+
+## Screenshots
+See the screenshots/ folder.
+
+## Tags
+#Auspify #AuspifyTechnologies #AuspifyInternship #AuspifyProjects
